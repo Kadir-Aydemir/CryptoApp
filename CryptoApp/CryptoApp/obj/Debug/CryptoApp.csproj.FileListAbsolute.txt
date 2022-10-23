@@ -1,0 +1,14 @@
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe.config
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\bin\Debug\CryptoApp.pdb
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\bin\Debug\Guna.UI2.dll
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.Properties.Resources.resources
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.CopyComplete
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.exe
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.pdb
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.CEVIRI_UC.resources
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.DUZENLE_UC.resources
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.CryptoApp.resources
+D:\C# Project\c# 25 uygulamalı proje\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.AssemblyReference.cache
